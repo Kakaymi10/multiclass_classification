@@ -54,9 +54,5 @@ The MNIST fashion dataset consists of 60,000 training images and 10,000 test ima
 This project is licensed under the MIT License - see the `LICENSE` file for details.
 
 ## Author
-- Your Name
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-
----
-
-Feel free to customize this README further based on your specific implementation details, results, or additional functionalities of your repository.
+- Moussa Moustapha
+- Connect with me on Linkedin: [Moussa](https://www.linkedin.com/in/moussa-moustapha-moussa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
