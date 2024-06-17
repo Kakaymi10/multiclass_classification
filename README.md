@@ -1,7 +1,3 @@
-Certainly! Here's a README template for your repository focusing on multiclass classification using the MNIST fashion dataset:
-
----
-
 # Multiclass Classification using MNIST Fashion Dataset
 
 ## Overview
